@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C6wOpXYZrKQgU6dTYEIcuSv8btE6tyw+YuadGEibjKc=",
+  "Source": "CalmQuizzAdminAPI",
+  "BasePath": "_content/CalmQuizzAdminAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

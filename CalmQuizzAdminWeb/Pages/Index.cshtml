@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<input value="" placeholder="nhập a" name="a" id="a" />
+<input value="" placeholder="nhập b" name="b" id="b"/>
+<button onclick="InitPage();">click me!</button>
+<script>
+    const InitPage =async () => {
+        const a = $('#a').val();
+        const b = $('#b').val();
+        let rq = await fetch(`https://localhost:7215/api/Home/Test?a=${a}&b=${b}`);
+        let rs = await rq.text();
+        alert(rs)
+    }
+</script>

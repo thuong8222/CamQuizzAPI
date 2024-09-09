@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalmQuizzAdminWeb", "CalmQuizzAdminWeb\CalmQuizzAdminWeb.csproj", "{8A675A43-9578-46D1-B96D-04423A99502B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalmQuizzAdminAPI", "CalmQuizzAdminAPI\CalmQuizzAdminAPI.csproj", "{05781812-BC34-4E89-99C5-73EE280941DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalmQuizzAppAPI", "CalmQuizzAppAPI\CalmQuizzAppAPI.csproj", "{73B0DEFE-83C8-437B-8673-CD9713095005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalmQuizzModels", "CalmQuizzModels\CalmQuizzModels.csproj", "{CBF5052A-8B5B-4FE1-95DC-5662AD0ED335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A675A43-9578-46D1-B96D-04423A99502B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A675A43-9578-46D1-B96D-04423A99502B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A675A43-9578-46D1-B96D-04423A99502B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A675A43-9578-46D1-B96D-04423A99502B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05781812-BC34-4E89-99C5-73EE280941DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05781812-BC34-4E89-99C5-73EE280941DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05781812-BC34-4E89-99C5-73EE280941DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05781812-BC34-4E89-99C5-73EE280941DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B0DEFE-83C8-437B-8673-CD9713095005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B0DEFE-83C8-437B-8673-CD9713095005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B0DEFE-83C8-437B-8673-CD9713095005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B0DEFE-83C8-437B-8673-CD9713095005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF5052A-8B5B-4FE1-95DC-5662AD0ED335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF5052A-8B5B-4FE1-95DC-5662AD0ED335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF5052A-8B5B-4FE1-95DC-5662AD0ED335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF5052A-8B5B-4FE1-95DC-5662AD0ED335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CD5DB6-C698-4FA8-A184-878BD7D844C6}
+	EndGlobalSection
+EndGlobal

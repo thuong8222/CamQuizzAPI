@@ -1,0 +1,12 @@
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\bin\Debug\net7.0\CalmQuizzModels.deps.json
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\bin\Debug\net7.0\CalmQuizzModels.dll
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\bin\Debug\net7.0\CalmQuizzModels.pdb
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.csproj.AssemblyReference.cache
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.AssemblyInfoInputs.cache
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.AssemblyInfo.cs
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.csproj.CoreCompileInputs.cache
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.dll
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\refint\CalmQuizzModels.dll
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\CalmQuizzModels.pdb
+D:\Project\.Net Core\CalmQuizz\CalmQuizzModels\obj\Debug\net7.0\ref\CalmQuizzModels.dll
